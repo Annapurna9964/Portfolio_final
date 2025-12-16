@@ -70,7 +70,7 @@ Displays internship and training experience.
 ### 📞 Contact Section
 Provides contact details and social media links.
 
-![Contact Section](screenshots/contact.png)
+![Contact Section](screenshots/experience.png)
 
 ---
 
